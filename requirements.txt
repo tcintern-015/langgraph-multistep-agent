@@ -1,0 +1,7 @@
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+# langchain-openai>=0.2.0    # uncomment if you switch to Option A in agent.py
+# langchain-anthropic>=0.2.0 # uncomment if you switch to Option B in agent.py
+duckduckgo-search>=6.0.0
+streamlit>=1.38.0
